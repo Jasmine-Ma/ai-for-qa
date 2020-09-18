@@ -24,8 +24,8 @@ class TestManualIngest:
         assert rd_pg.is_displayed(rd_pg.ingest_tab)
         # test on Scanned ingest
         ingest_pg = rd_ingest_page.RDIngestPage(self.driver)
-        ingest_pg.select_ingest_partner()  # select partner
-        ingest_pg.ingest_file_loc()
+        ingest_pg.select_ingest_partner()  # select partner (currently hard code to pick SNEI- it can be written to looks through csv file and select partners accordingly for doing ingest for multiple partners)
+        ingest_pg.ingest_file_loc()  # (this can be written to look for csv file for multiple file)
         ingest_pg.select_scanned()
         assert ingest_pg.is_displayed(ingest_pg.scanned_ingest_button)
         ingest_pg.page_refresh()

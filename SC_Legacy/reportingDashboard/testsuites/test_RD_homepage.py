@@ -14,7 +14,7 @@ class TestRDHomepage:
 
     @pytest.mark.parametrize("rvalue", csv_util.get_csv_data(const.DATA_PATH))
     def test_rd_page(self, rvalue):
-        login_pg = rd_login_page.LoginPage(self.driver)
+        login_pg = rd_login_page.RDLoginPage(self.driver)
         rd_pg = login_pg.login(rvalue[0], rvalue[1])
         rd_pg.wait_for_seconds(3)
         assert rd_pg.is_displayed(rd_pg.request_tab)
