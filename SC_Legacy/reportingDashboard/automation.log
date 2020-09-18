@@ -1,0 +1,81 @@
+08/30/2019 03:32:37 PM - TestLoginPage - test_valid_credentials - INFO: Running test_valid_credentials...
+08/30/2019 03:32:37 PM - BaseFunc - visit - INFO: Visit url: https://dev-rep.dadcdigital.com
+08/30/2019 03:32:38 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+08/30/2019 03:32:39 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+08/30/2019 03:32:39 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+08/30/2019 03:32:46 PM - BaseFunc - click_button - INFO: Click button: loc = ('xpath', "/a[contains(text(),'Requests')]")
+08/30/2019 03:34:38 PM - TestLoginPage - test_valid_credentials - INFO: Running test_valid_credentials...
+08/30/2019 03:34:38 PM - BaseFunc - visit - INFO: Visit url: https://stg-rep.dadcdigital.com
+08/30/2019 03:34:39 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+08/30/2019 03:34:39 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+08/30/2019 03:34:40 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+08/30/2019 03:34:46 PM - BaseFunc - click_button - INFO: Click button: loc = ('xpath', "/a[contains(text(),'Requests')]")
+08/30/2019 03:37:33 PM - TestLoginPage - test_valid_credentials - INFO: Running test_valid_credentials...
+08/30/2019 03:37:33 PM - BaseFunc - visit - INFO: Visit url: https://stg-rep.dadcdigital.com
+08/30/2019 03:37:33 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+08/30/2019 03:37:34 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+08/30/2019 03:37:34 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+08/30/2019 03:40:04 PM - TestLoginPage - test_valid_credentials - INFO: Running test_valid_credentials...
+08/30/2019 03:40:04 PM - BaseFunc - visit - INFO: Visit url: https://stg-rep.dadcdigital.com
+08/30/2019 03:40:05 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+08/30/2019 03:40:05 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+08/30/2019 03:40:06 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+08/30/2019 03:40:12 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='logout']")
+08/30/2019 03:58:32 PM - TestLoginPage - test_valid_credentials - INFO: Running test_valid_credentials...
+08/30/2019 03:58:32 PM - BaseFunc - visit - INFO: Visit url: https://stg-rep.dadcdigital.com
+08/30/2019 03:58:33 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+08/30/2019 03:58:33 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+08/30/2019 03:58:33 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+08/30/2019 03:58:40 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='logout']")
+08/30/2019 03:59:27 PM - TestLoginPage - test_title - INFO: Running test_title...
+08/30/2019 03:59:27 PM - TestLoginPage - test_valid_credentials - INFO: Running test_valid_credentials...
+08/30/2019 03:59:27 PM - BaseFunc - visit - INFO: Visit url: https://stg-rep.dadcdigital.com
+08/30/2019 03:59:27 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+08/30/2019 03:59:28 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+08/30/2019 03:59:28 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+08/30/2019 03:59:35 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='logout']")
+08/30/2019 03:59:36 PM - TestLoginPage - test_invalid_credentials - INFO: Running test_invalid_credentials...
+08/30/2019 03:59:36 PM - BaseFunc - visit - INFO: Visit url: https://stg-rep.dadcdigital.com
+08/30/2019 03:59:37 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = something
+08/30/2019 03:59:37 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+08/30/2019 03:59:38 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+08/30/2019 03:59:38 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//div[@class='ping-error']")
+09/03/2019 02:54:13 PM - TestLoginPage - test_title - INFO: Running test_title...
+09/03/2019 02:54:13 PM - TestLoginPage - test_valid_credentials - INFO: Running test_valid_credentials...
+09/03/2019 02:54:13 PM - BaseFunc - visit - INFO: Visit url: https://dev-rep.dadcdigital.com
+09/03/2019 02:54:13 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+09/03/2019 02:54:14 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+09/03/2019 02:54:14 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+09/03/2019 02:54:21 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='logout']")
+09/03/2019 02:54:22 PM - TestLoginPage - test_invalid_credentials - INFO: Running test_invalid_credentials...
+09/03/2019 02:54:22 PM - BaseFunc - visit - INFO: Visit url: https://dev-rep.dadcdigital.com
+09/03/2019 02:54:23 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = something
+09/03/2019 02:54:23 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+09/03/2019 02:54:23 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+09/03/2019 02:54:24 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//div[@class='ping-error']")
+09/16/2019 05:32:15 PM - TestLoginPage - test_title - INFO: Running test_title...
+09/16/2019 05:32:15 PM - TestLoginPage - test_valid_credentials - INFO: Running test_valid_credentials...
+09/16/2019 05:32:15 PM - BaseFunc - visit - INFO: Visit url: https://dev-rep.dadcdigital.com
+09/16/2019 05:32:16 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+09/16/2019 05:32:16 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+09/16/2019 05:32:17 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+09/16/2019 05:32:24 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='logout']")
+09/16/2019 05:32:25 PM - TestLoginPage - test_invalid_credentials - INFO: Running test_invalid_credentials...
+09/16/2019 05:32:25 PM - BaseFunc - visit - INFO: Visit url: https://dev-rep.dadcdigital.com
+09/16/2019 05:32:26 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = something
+09/16/2019 05:32:26 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+09/16/2019 05:32:26 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+09/16/2019 05:32:27 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//div[@class='ping-error']")
+09/20/2019 04:20:10 PM - TestLoginPage - test_title - INFO: Running test_title...
+09/20/2019 04:20:10 PM - TestLoginPage - test_valid_credentials - INFO: Running test_valid_credentials...
+09/20/2019 04:20:10 PM - BaseFunc - visit - INFO: Visit url: https://dev-rep.dadcdigital.com
+09/20/2019 04:20:11 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+09/20/2019 04:20:11 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+09/20/2019 04:20:11 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+09/20/2019 04:20:20 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='logout']")
+09/20/2019 04:20:21 PM - TestLoginPage - test_invalid_credentials - INFO: Running test_invalid_credentials...
+09/20/2019 04:20:21 PM - BaseFunc - visit - INFO: Visit url: https://dev-rep.dadcdigital.com
+09/20/2019 04:20:21 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = something
+09/20/2019 04:20:21 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020!@#
+09/20/2019 04:20:22 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+09/20/2019 04:20:22 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//div[@class='ping-error']")
