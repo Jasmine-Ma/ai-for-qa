@@ -98,3 +98,8 @@
 06/04/2020 04:49:03 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020@@@
 06/04/2020 04:49:04 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
 06/04/2020 04:49:06 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//a[@id='option-405']//span[@class='icon']")
+06/03/2021 01:35:23 PM - BaseFunc - visit - INFO: Visit url: https://stg-ven.dadcdigital.com
+06/03/2021 01:35:33 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+06/03/2021 01:35:35 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2021
+06/03/2021 01:35:35 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+06/03/2021 01:35:37 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//a[@id='option-405']//span[@class='icon']")

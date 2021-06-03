@@ -974,3 +974,27 @@
 01/08/2021 12:27:12 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020@@@!
 01/08/2021 12:27:12 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
 01/08/2021 12:27:15 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//a[contains(text(),'Requests')]")
+06/03/2021 01:31:22 PM - BaseFunc - visit - INFO: Visit url: https://stg-rep.dadcdigital.com
+06/03/2021 01:31:23 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+06/03/2021 01:31:23 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020@@@!
+06/03/2021 01:31:23 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+06/03/2021 01:31:25 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//div[@id='navback']//a[contains(text(),'Ingests')]")
+06/03/2021 01:33:03 PM - BaseFunc - visit - INFO: Visit url: https://stg-rep.dadcdigital.com
+06/03/2021 01:33:03 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+06/03/2021 01:33:04 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2021
+06/03/2021 01:33:04 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+06/03/2021 01:33:09 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//div[@id='navback']//a[contains(text(),'Ingests')]")
+06/03/2021 01:33:09 PM - BaseFunc - take_screenshot - INFO: Take screenshot...
+06/03/2021 01:33:09 PM - BaseFunc - take_screenshot - INFO: Screenshot save to directory: C:\Users\jma\PycharmProjects\SupplyChain_Automated\SC_Legacy\reportingDashboard\pages\../screenshots/captured.1622752389816.png
+06/03/2021 01:33:12 PM - BaseFunc - click_button - INFO: Click button: loc = ('xpath', "//div[@id='navback']//a[contains(text(),'Ingests')]")
+06/03/2021 01:33:17 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//div[@id='navback']//a[contains(text(),'Ingests')]")
+06/03/2021 01:33:17 PM - BaseFunc - take_screenshot - INFO: Take screenshot...
+06/03/2021 01:33:17 PM - BaseFunc - take_screenshot - INFO: Screenshot save to directory: C:\Users\jma\PycharmProjects\SupplyChain_Automated\SC_Legacy\reportingDashboard\pages\../screenshots/captured.1622752397142.png
+06/03/2021 01:33:18 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//select[@id='ddlPartners']")
+06/03/2021 01:33:18 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//option[contains(text(),'Sony Network Entertainment Inc')]")
+06/03/2021 01:33:19 PM - BaseFunc - send_keys - INFO: send keys: loc = ('xpath', "//input[@id='txtLoc']") with value = s3://supplychain-stgcontent/ingestprocess/Jasmine/Atest/1
+06/03/2021 01:33:20 PM - BaseFunc - click_button - INFO: Click button: loc = ('xpath', "//input[@id='btnScan']")
+06/03/2021 01:33:20 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//input[@id='btnScan']")
+06/03/2021 01:33:20 PM - BaseFunc - take_screenshot - INFO: Take screenshot...
+06/03/2021 01:33:20 PM - BaseFunc - take_screenshot - INFO: Screenshot save to directory: C:\Users\jma\PycharmProjects\SupplyChain_Automated\SC_Legacy\reportingDashboard\pages\../screenshots/captured.1622752400672.png
+06/03/2021 01:33:20 PM - BaseFunc - page_refresh - INFO: Refresh page...
