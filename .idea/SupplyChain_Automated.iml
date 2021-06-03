@@ -45,6 +45,9 @@
       <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SC_Legacy/venue/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SC_Legacy/api2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SC_Legacy/api2/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SC_Legacy/api2/testSuits" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (SupplyChain_Automated)" jdkType="Python SDK" />

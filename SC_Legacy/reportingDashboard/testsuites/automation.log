@@ -969,3 +969,8 @@
 09/18/2020 01:45:56 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//div[@id='navback']//a[contains(text(),'Ingests')]")
 09/18/2020 01:45:56 PM - BaseFunc - take_screenshot - INFO: Take screenshot...
 09/18/2020 01:45:56 PM - BaseFunc - take_screenshot - INFO: Screenshot save to directory: C:\Users\jma\PycharmProjects\SupplyChain_Automated\SC_Legacy\reportingDashboard\pages\../screenshots/captured.1600461956301.png
+01/08/2021 12:27:11 PM - BaseFunc - visit - INFO: Visit url: https://stg-rep.dadcdigital.com
+01/08/2021 12:27:11 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'username') with value = jasmine.ma@sonydadc.com
+01/08/2021 12:27:12 PM - BaseFunc - send_keys - INFO: send keys: loc = ('id', 'password') with value = HelloSony2020@@@!
+01/08/2021 12:27:12 PM - BaseFunc - click_and_wait - INFO: click and wait: loc = ('xpath', "//a[@class='ping-button normal allow']")
+01/08/2021 12:27:15 PM - BaseFunc - is_displayed - INFO: Checking if element is displayed, loc = ('xpath', "//a[contains(text(),'Requests')]")
