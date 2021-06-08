@@ -18,7 +18,7 @@ class TestLoginPage:
     def test_valid_credentials(self):
         self.log.info("Running test_valid_credentials...")
         login_pg = rd_login_page.LoginPage(self.driver)
-        home_pg = login_pg.login("jasmine.ma@sonydadc.com", "Hello2020@@@")
+        home_pg = login_pg.login("", "")
         #assert "Reporting Dashboard" in self.driver.title
         home_pg.take_screenshot("Captured")
         home_pg.logout()
@@ -27,7 +27,7 @@ class TestLoginPage:
     def test_invalid_credentials(self):
         self.log.info("Running test_invalid_credentials...")
         login_pg = rd_login_page.LoginPage(self.driver)
-        login_pg.login("something", "HelloSony2020!@#")
+        login_pg.login("something", @#")
         assert login_pg.is_displayed(login_pg.bad_credentials)
 
 #    def test_user_not_found(self):
