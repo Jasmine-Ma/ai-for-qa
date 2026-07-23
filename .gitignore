@@ -1,0 +1,38 @@
+# Virtual environments
+venv/
+.venv/
+env/
+virtualenv_*/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs and reports
+*.log
+pytest_report.xml
+htmlcov/
+.coverage
+
+# Screenshots
+screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
