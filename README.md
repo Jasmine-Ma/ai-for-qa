@@ -13,8 +13,6 @@ Each example is a self-contained Python script demonstrating a real-world use ca
 | [`examples/ai_api_tester/`](examples/ai_api_tester/) | Auto-generate and run API tests from an OpenAPI spec |
 | [`examples/ai_test_data/`](examples/ai_test_data/) | Generate realistic, structured test data sets |
 
-The [`archive/`](archive/) directory contains legacy Selenium and API test code from the original repo, preserved for reference.
-
 ## Prerequisites
 
 - Python 3.10+

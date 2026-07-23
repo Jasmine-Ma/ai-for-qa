@@ -1,6 +1,0 @@
-baseurl = ""
-browser = ""
-region = ""
-env = ""
-type = ""
-headless = ""
