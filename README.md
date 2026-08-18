@@ -13,6 +13,7 @@ Each example is a self-contained Python script demonstrating a real-world use ca
 | [`examples/ai_api_tester/`](examples/ai_api_tester/) | Auto-generate and run API tests from an OpenAPI spec |
 | [`examples/ai_test_data/`](examples/ai_test_data/) | Generate realistic, structured test data sets |
 | [`examples/ai_allure_report/`](examples/ai_allure_report/) | Generate pytest tests with Allure reporting decorators |
+| [`examples/ai_flaky_test_detector/`](examples/ai_flaky_test_detector/) | Detect flaky tests from JUnit XML reports and get AI root cause analysis |
 
 ## Prerequisites
 
